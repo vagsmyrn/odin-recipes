@@ -1,0 +1,25 @@
+.header{
+    background-color: red;
+    color: black;
+    text-align: center;
+}
+.big{
+    font-size: larger;
+}
+.small{
+    font-size: smaller;
+}
+#link{
+    font-style: italic;
+    background-color: lightgreen;
+}
+p{
+    background-color: yellowgreen;
+}
+
+ul{
+    background-color: lightgoldenrodyellow
+}
+ol{
+    background-color: lightgoldenrodyellow
+}
